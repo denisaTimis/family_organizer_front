@@ -1,0 +1,12 @@
+.tab-list {
+    border-bottom: 1px solid #ccc;
+
+}
+
+.tab-list-item {
+    display: inline-block;
+    list-style: none;
+    margin-bottom: -1px;
+    padding: 5px 5px 5px 10px;
+    font-size: 20px;
+}

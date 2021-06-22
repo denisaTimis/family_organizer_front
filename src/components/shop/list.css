@@ -1,0 +1,50 @@
+.list-input {
+    width:400px;
+    height:50px;
+    border-style: solid;
+    border-width:0px 0px 2px 0px;
+    border-color: #acacac;
+}
+
+.list-span
+{
+    border-style: solid;
+    border-width:0px 0px 2px 0px;
+    border-color: #acacac;
+    background-color: white;
+
+}
+.list-span:focus
+{
+    outline: none;
+}
+
+.list-image-btn
+{
+    width: 40px;
+    height: 36px;
+}
+.list-image-btn:focus
+{
+    outline: none;
+}
+
+.list-notes
+{
+    margin-left:5px;
+    margin-top:20px;
+    width: 350px;
+    height: 500px;
+    background-color: white;
+
+}
+
+.list{
+    margin-left:100px;
+    margin-top:20px;
+    height: 660px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: powderblue;
+    background-color: powderblue;
+}

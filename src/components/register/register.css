@@ -1,0 +1,37 @@
+.login-input{
+    width: 600px;
+    margin: auto;
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: rgba(0, 0, 0, 0.103);
+    background-color: rgba(248, 246, 246, 0.63);
+    color: black;
+}
+.login-icons
+{
+    width: 25px;
+    height:25px;
+}
+.login-text
+{
+    font-family: "Bookman Old Style";
+}
+.login-icon-span
+{
+    background-color: rgba(248, 246, 246, 0.63);
+    border-width: 0 0 2px;
+    border-color: rgba(0, 0, 0, 0.103);
+}
+.login-input-div
+{
+    width: 650px;
+}
+
+.login-btn
+{
+    width: 100px;
+    color: black;
+    background-color: powderblue;
+    border: none;
+    outline: none;
+}

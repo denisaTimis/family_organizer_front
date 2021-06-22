@@ -1,0 +1,36 @@
+.header-icon-login {
+    margin-left: 220px;
+}
+.header-menu-text {
+    margin-top:3px;
+    font-family: "Arial";
+    font-size:20px;
+}
+.link-style
+{
+    text-underline: none;
+}
+.header-menu-div
+{
+    background-color:rgba(176, 224, 230,0.5);
+}
+
+.header-menu-text:hover{
+    font-size:25px;
+}
+
+.header-text {
+    margin-left: 320px;
+    color:black;
+    font-family: "Bookman Old Style";
+    font-size: 40px;
+}
+.header-logo
+{
+    margin-left:5px;
+}
+.header-menu-img {
+    width: 40px;
+    height: 40px;
+    margin-left: 50px;
+}

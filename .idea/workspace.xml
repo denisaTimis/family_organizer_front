@@ -1,9 +1,236 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ea2c029-bc4b-44e0-b7a6-c1e5b6d8dffa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/budget/budget.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/budget/budget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/budget/family-income.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/budget/member-income.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/calendar/calendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/calendar/calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/calendar/create-event.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/calendar/create-event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/calendar/date-picker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/calendar/time-picker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/home/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/home/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/profile/profile-chores.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/profile/profile-events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/profile/profile-pictures.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/profile/profile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/profile/profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/register/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/register/register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/register/sign-up.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/root.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/shop/list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/shop/list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/shop/shopping-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/to-do-list/to-do-list-input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/to-do-list/to-do-list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/to-do-list/to-do-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/to-do-list/to-do-upcoming.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/E.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/N.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/U.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/addTodo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/b-day.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/calendar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/chat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/contacts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/document.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/drinks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/editTodo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/event.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/eventOptions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/finances.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/fruit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/gallery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/household.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/kidsScheduel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/lactose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/list-delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/list-edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/listadd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/meat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/nextmonth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/password.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/phoneNumber.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/prevmonth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/profilePhoto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/reminder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/reminderTime.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/repetEvent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/shopping.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/signup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/snacks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/to-do.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/tomato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/upcomingtodo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/userChores.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/userName.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/wheat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/wish-list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/loginBg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/todoBackground.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/todoBackgroung.jfif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1uCyzkoLj0u36KtKgcbWZZLBIiF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ea2c029-bc4b-44e0-b7a6-c1e5b6d8dffa" name="Default Changelist" comment="" />
+      <created>1624184129939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624184129939</updated>
+      <workItem from="1624184132736" duration="10095000" />
+      <workItem from="1624337112279" duration="1710000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
